@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../MiniERP.Application/MiniERP.Application.csproj" Id="9f61c71d-f048-4dc3-ab79-54b2cfdd59bc" />
+  <Project Path="../MiniERP.Domain/MiniERP.Domain.csproj" Id="4ec01b2a-e1ad-486e-83cc-8d24e1cadf81" />
+  <Project Path="../MiniERP.Infrastructure/MiniERP.Infrastructure.csproj" Id="e2d5e097-5f8d-45ed-84fa-1f1a11792c61" />
+  <Project Path="../MiniERP.Persistence/MiniERP.Persistence.csproj" Id="121f6d76-3e77-44a7-bd72-f835f819b16f" />
+  <Project Path="../MiniERP.Shared/MiniERP.Shared.csproj" Id="854c57c9-618a-478c-b45a-67bf4b758a7a" />
+  <Project Path="../MiniERP.Tests/MiniERP.Tests.csproj" Id="b0e7f7b9-02d7-4d33-b979-4f27545ddea4" />
+  <Project Path="MiniERP.API.csproj" />
+</Solution>

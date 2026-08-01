@@ -1,0 +1,16 @@
+D:\Projects\MiniERP\MiniERP.Shared\bin\Debug\net10.0\MiniERP.Shared.deps.json
+D:\Projects\MiniERP\MiniERP.Shared\bin\Debug\net10.0\MiniERP.Shared.dll
+D:\Projects\MiniERP\MiniERP.Shared\bin\Debug\net10.0\MiniERP.Shared.pdb
+D:\Projects\MiniERP\MiniERP.Shared\bin\Debug\net10.0\MiniERP.Tests.dll
+D:\Projects\MiniERP\MiniERP.Shared\bin\Debug\net10.0\MiniERP.Tests.pdb
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP.Shared.csproj.AssemblyReference.cache
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP.Shared.AssemblyInfoInputs.cache
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP.Shared.AssemblyInfo.cs
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP.Shared.sourcelink.json
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP..13B9B845.Up2Date
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP.Shared.dll
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\refint\MiniERP.Shared.dll
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\MiniERP.Shared.pdb
+D:\Projects\MiniERP\MiniERP.Shared\obj\Debug\net10.0\ref\MiniERP.Shared.dll
