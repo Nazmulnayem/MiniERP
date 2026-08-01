@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiniERP.Infrastructure\MiniERP.Infrastructure.csproj" />
+    <ProjectReference Include="..\MiniERP.Persistence\MiniERP.Persistence.csproj" />
+    <ProjectReference Include="..\MiniERP.Shared\MiniERP.Shared.csproj" />
+    <ProjectReference Include="..\MiniERP.Tests\MiniERP.Tests.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\Projects\MiniERP\MiniERP.Tests\bin\Debug\net10.0\MiniERP.Tests.deps.json
+D:\Projects\MiniERP\MiniERP.Tests\bin\Debug\net10.0\MiniERP.Tests.dll
+D:\Projects\MiniERP\MiniERP.Tests\bin\Debug\net10.0\MiniERP.Tests.pdb
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\MiniERP.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\MiniERP.Tests.AssemblyInfoInputs.cache
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\MiniERP.Tests.AssemblyInfo.cs
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\MiniERP.Tests.csproj.CoreCompileInputs.cache
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\MiniERP.Tests.sourcelink.json
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\MiniERP.Tests.dll
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\refint\MiniERP.Tests.dll
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\MiniERP.Tests.pdb
+D:\Projects\MiniERP\MiniERP.Tests\obj\Debug\net10.0\ref\MiniERP.Tests.dll
