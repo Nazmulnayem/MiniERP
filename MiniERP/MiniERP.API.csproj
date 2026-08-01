@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiniERP.Application\MiniERP.Application.csproj" />
+    <ProjectReference Include="..\MiniERP.Domain\MiniERP.Domain.csproj" />
+    <ProjectReference Include="..\MiniERP.Infrastructure\MiniERP.Infrastructure.csproj" />
+    <ProjectReference Include="..\MiniERP.Persistence\MiniERP.Persistence.csproj" />
+    <ProjectReference Include="..\MiniERP.Shared\MiniERP.Shared.csproj" />
+    <ProjectReference Include="..\MiniERP.Tests\MiniERP.Tests.csproj" />
+  </ItemGroup>
+
+</Project>

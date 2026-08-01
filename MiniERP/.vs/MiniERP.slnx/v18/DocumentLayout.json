@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MiniERP\\MiniERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9611AA3-CD79-FE55-2C18-87F232E2272A}|MiniERP.API.csproj|d:\\projects\\minierp\\minierp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9611AA3-CD79-FE55-2C18-87F232E2272A}|MiniERP.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9611AA3-CD79-FE55-2C18-87F232E2272A}|MiniERP.API.csproj|d:\\projects\\minierp\\minierp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9611AA3-CD79-FE55-2C18-87F232E2272A}|MiniERP.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9611AA3-CD79-FE55-2C18-87F232E2272A}|MiniERP.API.csproj|d:\\projects\\minierp\\minierp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9611AA3-CD79-FE55-2C18-87F232E2272A}|MiniERP.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E7F7B9-02D7-4D33-B979-4F27545DDEA4}|..\\MiniERP.Tests\\MiniERP.Tests.csproj|d:\\projects\\minierp\\minierp.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854C57C9-618A-478C-B45A-67BF4B758A7A}|..\\MiniERP.Shared\\MiniERP.Shared.csproj|d:\\projects\\minierp\\minierp.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F6D76-3E77-44A7-BD72-F835F819B16F}|..\\MiniERP.Persistence\\MiniERP.Persistence.csproj|d:\\projects\\minierp\\minierp.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D5E097-5F8D-45ED-84FA-1F1A11792C61}|..\\MiniERP.Infrastructure\\MiniERP.Infrastructure.csproj|d:\\projects\\minierp\\minierp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\MiniERP\\MiniERP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\MiniERP\\MiniERP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-01T15:10:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MiniERP\\MiniERP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\MiniERP\\MiniERP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:03:58.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\MiniERP\\MiniERP.Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MiniERP.Tests\\Class1.cs",
+              "ToolTip": "D:\\Projects\\MiniERP\\MiniERP.Tests\\Class1.cs",
+              "RelativeToolTip": "..\\MiniERP.Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T05:49:03.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\MiniERP\\MiniERP.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MiniERP.Shared\\Class1.cs",
+              "ToolTip": "D:\\Projects\\MiniERP\\MiniERP.Shared\\Class1.cs",
+              "RelativeToolTip": "..\\MiniERP.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T05:48:13.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\MiniERP\\MiniERP.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MiniERP.Persistence\\Class1.cs",
+              "ToolTip": "D:\\Projects\\MiniERP\\MiniERP.Persistence\\Class1.cs",
+              "RelativeToolTip": "..\\MiniERP.Persistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T05:47:26.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\MiniERP\\MiniERP.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MiniERP.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Projects\\MiniERP\\MiniERP.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\MiniERP.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T05:46:26.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\MiniERP\\MiniERP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\MiniERP\\MiniERP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-01T05:27:47.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
